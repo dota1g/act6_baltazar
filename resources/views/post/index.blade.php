@@ -14,7 +14,5 @@
             <li><a href="post/1">Post 1</a></li>
             <li><a href="post/2">Post 2</a></li>
         </ul>
-
-        <script src="" async defer></script>
     </body>
 </html>
